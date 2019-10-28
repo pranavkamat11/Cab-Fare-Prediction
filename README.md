@@ -11,3 +11,9 @@ You are a cab rental start-up company. You have successfully run the pilot proje
 * dropoff_longitude - float for longitude coordinate of where the cab ride ended.
 * dropoff_latitude - float for latitude coordinate of where the cab ride ended.
 * passenger_count - an integer indicating the number of passengers in the cab ride
+
+# Regression Models Applied
+* Linear Regression
+* CART
+* Random Forest
+* Gradient Boosting Regression
