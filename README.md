@@ -18,6 +18,7 @@ You are a cab rental start-up company. You have successfully run the pilot proje
 * Feature Engineering which involved creation of new column representing Haversine distance
 * Exploratory Data Analysis
 * Modelling
+<br>
 All the steps are thoroughly explained in the project report
 
 
