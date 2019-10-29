@@ -13,11 +13,13 @@ You are a cab rental start-up company. You have successfully run the pilot proje
 * passenger_count - an integer indicating the number of passengers in the cab ride
 
 ## Steps Followed (refer project report)
-* missing value analysis
-* Outlier analysis 
-* Feature Engineering which involved creation of new column representing Haversine distance
-* Exploratory Data Analysis
-* Modelling
+1. missing value analysis
+2. Outlier analysis 
+3. Feature Engineering which involved creation of new column representing the distance. This was calculated by applying Havesine formula by using the pickup and drop coordinates
+4. Exploratory Data Analysis
+5. Tackled Multicollinearity using Pearson Correlation
+6. Model Development
+7. Hyperparameter tuning
 
 
 ## Regression Models Applied
